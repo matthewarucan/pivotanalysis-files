@@ -1,5 +1,4 @@
 # Macro-Driven Market Pivot Analysis
-## Sneaker & Apparel Resale → Digital and Vintage Camera Equipment
 
 ---
 
