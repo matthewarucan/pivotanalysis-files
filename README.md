@@ -1,7 +1,5 @@
 # Macro-Driven Market Pivot Analysis
-
 ---
-
 ## Overview
 
 From 2018 through 2021, the sneaker and apparel resale market benefited from strong consumer liquidity, limited supply, and favorable resale dynamics. Beginning in 2022, those conditions shifted materially.
