@@ -8,7 +8,7 @@ From 2018 through 2021, the sneaker and apparel resale market performed well due
 
 Inflation increased the cost of everyday necessities, leaving consumers with less discretionary income. At the same time, major footwear and apparel brands increased production and relied more heavily on promotions. Together, these factors reduced resale margins, slowed how quickly inventory sold, and increased the risk of holding product.
 
-Rather than assuming these issues were temporary, this project examines economic data and public company financial reports to determine whether the downturn was structural. The analysis explains why moving away from sneakers and apparel and into digital and vintage camera equipment was a data-backed decision.
+Rather than treating these issues as temporary, this project examines economic data and public company financial reports to determine whether the downturn was structural. The analysis explains why moving away from sneakers and apparel and into digital and vintage camera equipment was a data-backed decision.
 
 ---
 
