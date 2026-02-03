@@ -50,9 +50,9 @@ For resellers, this had a direct impact. Frequent restocks and brand-level disco
 
 ---
 
-## Analysis & Evidence
+## Analysis and Evidence
 
-### Scope & Methodology
+### Scope and Methodology
 
 - **Time Period:** 2018–2022  
 - **Metrics:** CPI, real wage growth, personal saving rate, revolving consumer credit, revenue, gross margin, inventory  
