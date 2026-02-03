@@ -126,6 +126,13 @@ Federal Reserve G.19 data, values in trillions USD.
 
 ## Company Financial Trends (2018–2022)
 
+To better understand how brand-level performance translated into resale market conditions,
+I analyzed the financial reports of the three primary brands I sold during this period.
+Because resale pricing, liquidity, and demand are directly influenced by brand supply,
+inventory levels, and promotional behavior, trends in these companies’ financials
+provided important context for changes observed in the secondary market.
+
+
 ### Nike (Fiscal Years)
 
 | FY | Revenue ($B) | Gross Margin | Inventory ($B) |
